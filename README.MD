@@ -3,6 +3,6 @@ Matrícula: 916392
 
 ## Print da página
 
-![Print do site](public/print1.png)
-![Print do site](public/print2.png)
+![Print do site](public/print1.jpeg)
+![Print do site](public/print2.jpeg)
 
